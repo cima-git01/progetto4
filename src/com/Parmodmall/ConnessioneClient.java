@@ -1,6 +1,6 @@
-package com.francescocimarra;
+package com.Parmodmall;
 
-public class PuntoDiVerifica {
+public class ConnessioneClient {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
