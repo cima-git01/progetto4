@@ -1,10 +1,6 @@
-package com.francescocimarra;
-
+package com.Parmodmall;
+import java.util.Date;
 public class Evento {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	protected Date dataOraEvento;
+	protected String Stato;
 }
